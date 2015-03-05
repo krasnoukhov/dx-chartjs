@@ -1,0 +1,21 @@
+{
+  "name": "dx-chartjs",
+  "version": "13.2.8",
+  "authors": [
+    "Dmitry Krasnoukhov <dmitry@krasnoukhov.com>"
+  ],
+  "description": "Mirror of DevExtreme ChartJS",
+  "main": "dx.chartjs.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "http://js.devexpress.com/EULAs/DevExtremeWeb/",
+  "homepage": "http://js.devexpress.com/Documentation/Howto/Data_Visualization/Basics/Create_a_Widget/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
